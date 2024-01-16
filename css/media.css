@@ -1,0 +1,16 @@
+@media (max-width:767px){
+    .banner_lorem2 h2 {
+        font-size: 40px;
+    }
+    .banner_text p {
+        font-size: 16px;
+    }
+    .build_text p {
+        padding: 0 46px;
+    }
+    .banner_text h2 {
+        font-size: 32px;
+    }
+    .banner_text p {
+        font-size: 14px;
+    }
